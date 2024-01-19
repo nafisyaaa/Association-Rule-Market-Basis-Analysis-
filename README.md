@@ -7,6 +7,6 @@ AlfaIndo is a franchise store that has several branches in big cities in Indones
 
 
 
-**What I did**
+**Hints**
 - Data Wrangling
 - Market Basket Analysis
